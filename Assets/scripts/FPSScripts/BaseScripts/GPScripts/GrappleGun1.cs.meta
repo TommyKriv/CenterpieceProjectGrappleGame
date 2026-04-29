@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dc857b22166d3584180029d05af17e75
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gunTip: {instanceID: 0}
+  - Camera: {instanceID: 0}
+  - Player: {instanceID: 0}
+  - PlayerRb: {instanceID: 0}
+  - hookProj: {fileID: 6799074639508951762, guid: d7296c8298c22944cbbab97878f1dbef,
+      type: 3}
+  - rope: {instanceID: 0}
+  - grapplePrint: {instanceID: 0}
+  - PlayerOrb: {instanceID: 0}
+  - rootRigidbody: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

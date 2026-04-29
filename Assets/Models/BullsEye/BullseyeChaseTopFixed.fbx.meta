@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 46a27bb04118bb3408d24bb5feed1f4a
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -6312595695597181931
+    second: Hallway8Top|10thHallwayCeilingCollapse
+  - first:
+      74: -8679617755137837409
+    second: Hallway8Top|10thHallwayCeilingFall2
+  - first:
+      74: -6436323116893146901
+    second: Hallway8Top|10thHallwayFloorCollapse
+  - first:
+      74: 1653278035573046001
+    second: Hallway8Top|10thHallwayRightBonk
+  - first:
+      74: 1093949427860045482
+    second: Hallway8Top|10thHallwayWallCave1
+  - first:
+      74: -419108802651018716
+    second: Hallway8Top|10thHallwayWallCave2
+  - first:
+      74: 142276410548040531
+    second: Hallway8Top|10thHallwayWallCollideLeft
+  - first:
+      74: -4261946714707372950
+    second: Hallway8Top|11thHallwayCeilingFall
+  - first:
+      74: -2927044120850909739
+    second: Hallway8Top|11thHallwayCollapse
+  - first:
+      74: 5334027600323405964
+    second: Hallway8Top|11thHallwayFallLeft
+  - first:
+      74: 5207832051134583967
+    second: Hallway8Top|11thHallwayHangingFloor
+  - first:
+      74: 6136606962390747029
+    second: Hallway8Top|11thHallwayRightCollapse
+  - first:
+      74: 6497655232142128749
+    second: Hallway8Top|1stHallwayPickup
+  - first:
+      74: -4387984461550227960
+    second: Hallway8Top|2ndHallway
+  - first:
+      74: 2460308677124294928
+    second: Hallway8Top|3rdHallwayStop
+  - first:
+      74: -9169255217780867093
+    second: Hallway8Top|4thHallwayThrow
+  - first:
+      74: 9038772016380018293
+    second: Hallway8Top|5thHallwayTopple
+  - first:
+      74: 2389414367443124148
+    second: Hallway8Top|5thPillarFall
+  - first:
+      74: -5292424395248327470
+    second: Hallway8Top|7thCeilingFall
+  - first:
+      74: 7191213705180715044
+    second: Hallway8Top|7thHallwayBottomOut
+  - first:
+      74: -2721582622688020153
+    second: Hallway8Top|7thHallwayCaveIn
+  - first:
+      74: 7115648441060120312
+    second: Hallway8Top|7thHallwayFall
+  - first:
+      74: 8274069409916292929
+    second: Hallway8Top|7thHallwayKicked
+  - first:
+      74: -746657922290737086
+    second: Hallway8Top|7thHallwayWallFall
+  - first:
+      74: 6458624890604017032
+    second: Hallway8Top|8thHallMove
+  - first:
+      74: -784132007615987594
+    second: Hallway8Top|9thHallwayCollapse
+  - first:
+      74: 6718321378365023864
+    second: Hallway8Top|9thHallwayFall
+  - first:
+      74: 2561791235689582666
+    second: Hallway8Top|9thHallwayJumpAway
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: Hallway8Top
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

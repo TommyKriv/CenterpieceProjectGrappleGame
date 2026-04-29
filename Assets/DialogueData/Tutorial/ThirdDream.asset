@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84736f00ca5690940aa2333ea4ce800b, type: 3}
+  m_Name: ThirdDream
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Her first week of being a hero broke her... She'd come back home silent, looking
+    more exhausted than I'd ever seen her.
+  - She'd cry when she thought I wasn't watching. I think she was afraid of ruining
+    our dream. It was a wakeup call from our childhood fantasy.
+  - I was the one who convinced her to quit. She tries her best to support me, but
+    you can see the conflict in her eyes... I think she hates heroes.
+  responses: []
+  interactable: 0
+  unPause: 0

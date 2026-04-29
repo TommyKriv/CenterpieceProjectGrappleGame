@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84736f00ca5690940aa2333ea4ce800b, type: 3}
+  m_Name: TimerExplanation
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '*Crackle* We''re losing connection! Someone else is-
+
+    *Krzzt* Getting into
+    the machine! X, we''re gonna get you out I swear! Just hang in there big guy!'
+  - "*CLICK* Hey bro, are your legs feeling alright? \nYou're gonna need to run real
+    fast soon. Keep going, I'm sending in help."
+  - The test has an end landing. Just keep running till you get to it. We've got
+    a plan.
+  responses: []
+  interactable: 0
+  unPause: 0

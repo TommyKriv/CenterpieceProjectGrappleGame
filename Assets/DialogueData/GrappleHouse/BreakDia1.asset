@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84736f00ca5690940aa2333ea4ce800b, type: 3}
+  m_Name: BreakDia1
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Heyyy! Up and at 'em hero~ you've got a gut to fill and a guild to shock today!
+  - 'Hows the mood? You''ve been working for this moment for a long long time.
+
+    Nerves
+    have gotta be going crazy. What''s the feel? Hungry? Antsy? Need to fight? I''ve
+    got this crazy robot training dummy I''ve been itching to test!'
+  responses:
+  - unPauser: 1
+    responseText: Nerves? Pshh!
+    dialogueObject: {fileID: 11400000, guid: 4c232274ad09b9f419d3b433a0eee620, type: 2}
+  - unPauser: 1
+    responseText: Shaking a little!
+    dialogueObject: {fileID: 11400000, guid: 47c1f0a0e6ff9f64a9d99c374cf8faae, type: 2}
+  - unPauser: 1
+    responseText: ROBOT TRAINING DUMMY?!
+    dialogueObject: {fileID: 11400000, guid: 8e7b6531f52f44541b86c5e2e6aae335, type: 2}
+  interactable: 0
+  unPause: 0
+  hold: 0

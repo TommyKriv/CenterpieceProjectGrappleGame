@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84736f00ca5690940aa2333ea4ce800b, type: 3}
+  m_Name: YImFine!!
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Yes, yes, big fella's got it all taken care of. \nBossy ol' Y shouldn't worry.
+    I know you'll do great!\nI'm just making sure you know I'm with you. "
+  - Speaking of, you've got your observation trial going on! Nobody but your judges
+    are supposed to have access to your simulation.
+  - "Buuuuut I messed with a few wires backstage and \nfound a way in~! I'll be rooting
+    for you bro! \nYou've got this."
+  responses: []
+  interactable: 1

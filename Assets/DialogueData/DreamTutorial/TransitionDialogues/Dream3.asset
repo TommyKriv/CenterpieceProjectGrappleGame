@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84736f00ca5690940aa2333ea4ce800b, type: 3}
+  m_Name: Dream3
+  m_EditorClassIdentifier: 
+  dialogue:
+  - When Dad tried to move us with him to district 1, she fought back hard. I hadn't
+    seen her so angry since her hero days.
+  - I remember finding her after he left, she locked herself in her workshop. But
+    I was good at getting in places I'm not supposed to.
+  - Red-rimmed eyes, puffy from crying, staring at the wall. It was like she wasn't
+    even there... It was the scariest moment of my life.
+  - 'And the day I vowed to be her hero. '
+  responses: []
+  interactable: 0
+  unPause: 1
+  hold: 0

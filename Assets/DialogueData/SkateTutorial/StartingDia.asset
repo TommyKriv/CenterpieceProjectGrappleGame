@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84736f00ca5690940aa2333ea4ce800b, type: 3}
+  m_Name: StartingDia
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '*Kzzrrt*
+
+    You hearing this big fella? Sick nasty, lets do this!'
+  - 'You probably already know this, but just to go over everything,
+
+    This is
+    a simulated environment. Techs built this area specifically to test your stuff,
+    time to strut it.'
+  responses: []
+  interactable: 0
+  unPause: 0

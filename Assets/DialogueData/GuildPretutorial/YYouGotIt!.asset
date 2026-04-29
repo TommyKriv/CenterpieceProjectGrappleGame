@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84736f00ca5690940aa2333ea4ce800b, type: 3}
+  m_Name: YYouGotIt!
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Good, I know you've been excited for this day so I \nwon't keep you much longer.
+    I know you'll do good out \nthere, show those judges what you can do!"
+  - "I found a way to sneak in and watch your simulation. \nI'll be cheering you
+    on from the shadows! \nMight see if I can pull a few strings to help you out
+    >:)."
+  responses: []
+  interactable: 1

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: a672ec10ed3565f4c8c901bfa22b282c
+  - enabled: 1
+    path: Assets/Scenes/FirstMorningSequence/Tutorial.unity
+    guid: 28480e9fe3fcce445b58ccf2690a3507
+  - enabled: 1
+    path: Assets/Scenes/FirstMorningSequence/GrappleHouseOp.unity
+    guid: ae5e52e8e2fc6d6499501da2fadd5408
+  - enabled: 1
+    path: Assets/Scenes/FirstMorningSequence/Level1.unity
+    guid: 7e7e468e2324f624499af834e0e4f9d0
+  - enabled: 1
+    path: Assets/Scenes/FirstMorningSequence/X'sVision.unity
+    guid: 7cc18e077c54cf4429d510f223b15264
+  - enabled: 1
+    path: Assets/Scenes/6Guild.unity
+    guid: e4ba3737ec85f834d9a978dcda760d2e
+  - enabled: 1
+    path: Assets/Scenes/SkatesTutorial.unity
+    guid: 80b41760ec6206448b03591a3598d3b7
+  - enabled: 1
+    path: Assets/Scenes/AllForNow.unity
+    guid: fdafc8d77b2298c45ab2b09c25a97ee9
+  m_configObjects: {}

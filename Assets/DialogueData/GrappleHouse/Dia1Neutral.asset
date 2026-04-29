@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84736f00ca5690940aa2333ea4ce800b, type: 3}
+  m_Name: Dia1Neutral
+  m_EditorClassIdentifier: 
+  dialogue:
+  - 'X: Yeah, it''s all starting to become real.
+
+    Heck, I nearly dropped my gauntlet
+    when putting it on!'
+  - 'Y: Good. Nerves mean its important to you. You''re gonna kick ass today Max,
+    I know you will.
+
+'
+  - 'Here, I''ll be watching, found a little backdoor into the server you''ll be
+    testing on. I''ve got your back bro. Always.
+
+'
+  - Breathe, let me walk you through something that helped me my test day. Eyes closed,
+    deep breaths, and pretend you're walking on this table.
+  responses: []
+  interactable: 0
+  unPause: 1
+  hold: 0

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - hookPoint
+  - Ground
+  - Light
+  - HookProj
+  - Interactable
+  - Enemy
+  - BouncePad
+  - GM
+  - Rail
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Pullable
+  - MovingPlatform
+  - Player
+  - KillZone
+  - DeathBox
+  - Ledge
+  - BreakableGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - ShadowBlockers
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
