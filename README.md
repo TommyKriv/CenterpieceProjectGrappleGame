@@ -20,9 +20,11 @@ Features:
 
 &#x09;-Wall Running
 
-&#x09;-Grapple Hook mechanics (pull, rope wrapping)
+&#x09;-Grapple Hook mechanics (pull to hook point, rope wrapping)
 
 &#x09;-Dynamic mantling system on ledges
+
+&#x09;-Rail Grinding
 
 &#x09;
 
@@ -51,4 +53,6 @@ Features:
 \-Music system with (1) self-composed song
 
 
+
+\-Technically URP lighting system, but I could not figure it out in time so it is BAD
 
